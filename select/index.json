@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "จำนน (White Flag)",
+  "base_artist": "NONT TANONT",
+  "createdAt": "2026-02-12T16:21:40.310595Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "จำนน (White Flag)",
+      "artist": "NONT TANONT",
+      "has_synced": true,
+      "path": "select/01_จํานน_(White_Flag)_NONT_TANONT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "จำนน",
+      "artist": "NONT TANONT",
+      "has_synced": false,
+      "path": "select/02_จํานน_NONT_TANONT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "จำนน (White Flag)",
+      "artist": "NONT TANONT",
+      "has_synced": true,
+      "path": "select/03_จํานน_(White_Flag)_NONT_TANONT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "จำนน (White Flag) (Live Session)",
+      "artist": "Nont Tanont",
+      "has_synced": false,
+      "path": "select/04_จํานน_(White_Flag)_(Live_Session)_Nont_Tanont.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "จำนน",
+      "artist": "NONT TANONT",
+      "has_synced": false,
+      "path": "select/pl_01_จํานน_NONT_TANONT.txt"
+    }
+  ]
+}
